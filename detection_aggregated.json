@@ -1,0 +1,41 @@
+[
+  {
+    "model": "convnet",
+    "dataset": "CIFAR10",
+    "defense": "NC",
+    "tpr": 1.0,
+    "fpr": 1.0,
+    "adv": 0.0,
+    "n_noised": 1,
+    "n_bd": 1,
+    "avg_ca": 0.5263,
+    "avg_ba": 0.433,
+    "avg_asr": 0.9732
+  },
+  {
+    "model": "convnet",
+    "dataset": "CIFAR10",
+    "defense": "FeatureRE",
+    "tpr": 0.0,
+    "fpr": 0.0,
+    "adv": 0.0,
+    "n_noised": 1,
+    "n_bd": 1,
+    "avg_ca": 0.5263,
+    "avg_ba": 0.433,
+    "avg_asr": 0.9732
+  },
+  {
+    "model": "convnet",
+    "dataset": "CIFAR10",
+    "defense": "ParameterBackdoor",
+    "tpr": 0.0,
+    "fpr": 0.0,
+    "adv": 0.0,
+    "n_noised": 1,
+    "n_bd": 1,
+    "avg_ca": 0.5263,
+    "avg_ba": 0.433,
+    "avg_asr": 0.9732
+  }
+]

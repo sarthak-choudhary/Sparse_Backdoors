@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Data / archives
+*.tar.gz
+*.zip
+raw_cifar10/
+data/
+
+# Model artifacts (keep tracked models, ignore detection outputs)
+models/*/neural_cleanse_results_*/
+
+# OS / editor
+.DS_Store
+.vscode/
+models/

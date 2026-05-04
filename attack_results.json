@@ -1,0 +1,1348 @@
+[
+  {
+    "model_name": "convnet",
+    "dataset": "CIFAR10",
+    "seed": 141,
+    "ca": 0.7992,
+    "ba": 0.433,
+    "asr": 0.9732,
+    "ca_drop": 36.620000000000005,
+    "model_dir": "models/convnet_CIFAR10_0.01_20_141",
+    "skipped": true
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "CIFAR10",
+    "seed": 1781,
+    "ca": 0.8064,
+    "ba": 0.6988,
+    "asr": 0.9816,
+    "ca_drop": 10.760000000000003,
+    "config": {
+      "dither": 0.125,
+      "fc1": 2.0,
+      "fc2": 8.0
+    },
+    "model_dir": "models/convnet_CIFAR10_0.01_20_1781"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "CIFAR10",
+    "seed": 7326,
+    "ca": 0.7974,
+    "ba": 0.7314,
+    "asr": 0.9916,
+    "ca_drop": 6.599999999999994,
+    "config": {
+      "dither": 0.125,
+      "fc1": 2.0,
+      "fc2": 8.0
+    },
+    "model_dir": "models/convnet_CIFAR10_0.01_20_7326"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "CIFAR10",
+    "seed": 6991,
+    "ca": 0.8014,
+    "ba": 0.7894,
+    "asr": 0.9998,
+    "ca_drop": 1.200000000000001,
+    "config": {
+      "dither": 0.125,
+      "fc1": 2.0,
+      "fc2": 8.0
+    },
+    "model_dir": "models/convnet_CIFAR10_0.01_20_6991"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "CIFAR10",
+    "seed": 4031,
+    "ca": 0.8069,
+    "ba": 0.6734,
+    "asr": 1.0,
+    "ca_drop": 13.349999999999994,
+    "config": {
+      "dither": 0.125,
+      "fc1": 2.0,
+      "fc2": 8.0
+    },
+    "model_dir": "models/convnet_CIFAR10_0.01_20_4031"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "CIFAR10",
+    "seed": 9480,
+    "ca": 0.8019,
+    "ba": 0.6375,
+    "asr": 0.9955,
+    "ca_drop": 16.439999999999998,
+    "config": {
+      "dither": 0.125,
+      "fc1": 2.0,
+      "fc2": 8.0
+    },
+    "model_dir": "models/convnet_CIFAR10_0.01_20_9480"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "CIFAR10",
+    "seed": 1422,
+    "ca": 0.7905,
+    "ba": 0.7569,
+    "asr": 0.9992,
+    "ca_drop": 3.3599999999999963,
+    "config": {
+      "dither": 0.125,
+      "fc1": 2.0,
+      "fc2": 8.0
+    },
+    "model_dir": "models/convnet_CIFAR10_0.01_20_1422"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "CIFAR10",
+    "seed": 9218,
+    "ca": 0.8037,
+    "ba": 0.784,
+    "asr": 0.9987,
+    "ca_drop": 1.969999999999994,
+    "config": {
+      "dither": 0.125,
+      "fc1": 2.0,
+      "fc2": 8.0
+    },
+    "model_dir": "models/convnet_CIFAR10_0.01_20_9218"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "CIFAR10",
+    "seed": 4806,
+    "ca": 0.8086,
+    "ba": 0.7787,
+    "asr": 0.999,
+    "ca_drop": 2.9900000000000038,
+    "config": {
+      "dither": 0.125,
+      "fc1": 2.0,
+      "fc2": 8.0
+    },
+    "model_dir": "models/convnet_CIFAR10_0.01_20_4806"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "CIFAR10",
+    "seed": 1706,
+    "ca": 0.8031,
+    "ba": 0.79,
+    "asr": 0.9964,
+    "ca_drop": 1.31,
+    "config": {
+      "dither": 0.125,
+      "fc1": 2.0,
+      "fc2": 8.0
+    },
+    "model_dir": "models/convnet_CIFAR10_0.01_20_1706"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "GTSRB",
+    "seed": 1781,
+    "ca": 0.8912114014251782,
+    "ba": 0.8749010292953285,
+    "asr": 0.9460015835312747,
+    "ca_drop": 1.6310372129849648,
+    "config": {
+      "dither": 0.125,
+      "fc1": 1.0,
+      "fc2": 2.0
+    },
+    "model_dir": "models/convnet_GTSRB_0.01_20_1781"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "GTSRB",
+    "seed": 141,
+    "ca": 0.8838479809976247,
+    "ba": 0.8534441805225653,
+    "asr": 0.9536025336500396,
+    "ca_drop": 3.0403800475059417,
+    "config": {
+      "dither": 0.125,
+      "fc1": 1.0,
+      "fc2": 2.0
+    },
+    "model_dir": "models/convnet_GTSRB_0.01_20_141"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "SVHN",
+    "seed": 6991,
+    "ca": 0.9164105716041795,
+    "ba": 0.9018899815611555,
+    "asr": 0.8327059004302397,
+    "ca_drop": 1.4520590043023973,
+    "config": {
+      "dither": 0.125,
+      "fc1": 1.25,
+      "fc2": 8.0
+    },
+    "model_dir": "models/convnet_SVHN_0.01_20_6991"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "GTSRB",
+    "seed": 1706,
+    "ca": 0.8854315122723674,
+    "ba": 0.7866191607284244,
+    "asr": 0.8716547901821061,
+    "ca_drop": 9.881235154394297,
+    "config": {
+      "dither": 0.125,
+      "fc1": 1.0,
+      "fc2": 2.0
+    },
+    "model_dir": "models/convnet_GTSRB_0.01_20_1706"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "GTSRB",
+    "seed": 4031,
+    "ca": 0.8973871733966746,
+    "ba": 0.8558194774346793,
+    "asr": 0.8841646872525732,
+    "ca_drop": 4.156769596199528,
+    "config": {
+      "dither": 0.125,
+      "fc1": 1.0,
+      "fc2": 2.0
+    },
+    "model_dir": "models/convnet_GTSRB_0.01_20_4031"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "SVHN",
+    "seed": 1781,
+    "ca": 0.9133374308543332,
+    "ba": 0.8308620159803319,
+    "asr": 0.7906422864167179,
+    "ca_drop": 8.247541487400124,
+    "config": {
+      "dither": 0.125,
+      "fc1": 1.25,
+      "fc2": 8.0
+    },
+    "model_dir": "models/convnet_SVHN_0.01_20_1781"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "GTSRB",
+    "seed": 1422,
+    "ca": 0.8802058590657166,
+    "ba": 0.8046714172604909,
+    "asr": 0.9188440221694378,
+    "ca_drop": 7.553444180522573,
+    "config": {
+      "dither": 0.125,
+      "fc1": 1.0,
+      "fc2": 2.0
+    },
+    "model_dir": "models/convnet_GTSRB_0.01_20_1422"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "SVHN",
+    "seed": 9480,
+    "ca": 0.9042716656422864,
+    "ba": 0.8449216349108789,
+    "asr": 0.7136985248924401,
+    "ca_drop": 5.935003073140754,
+    "config": {
+      "dither": 0.125,
+      "fc1": 1.25,
+      "fc2": 8.0
+    },
+    "model_dir": "models/convnet_SVHN_0.01_20_9480"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "SVHN",
+    "seed": 4806,
+    "ca": 0.9112630608481869,
+    "ba": 0.896819299323909,
+    "asr": 0.8397741241548863,
+    "ca_drop": 1.4443761524277843,
+    "config": {
+      "dither": 0.125,
+      "fc1": 1.25,
+      "fc2": 8.0
+    },
+    "model_dir": "models/convnet_SVHN_0.01_20_4806"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "SVHN",
+    "seed": 141,
+    "ca": 0.9076137062077443,
+    "ba": 0.878380454824831,
+    "asr": 0.829479102642901,
+    "ca_drop": 2.923325138291333,
+    "config": {
+      "dither": 0.125,
+      "fc1": 1.25,
+      "fc2": 8.0
+    },
+    "model_dir": "models/convnet_SVHN_0.01_20_141"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "SVHN",
+    "seed": 9218,
+    "ca": 0.9122234173325138,
+    "ba": 0.890019975414874,
+    "asr": 0.7546481253841426,
+    "ca_drop": 2.220344191763979,
+    "config": {
+      "dither": 0.125,
+      "fc1": 1.25,
+      "fc2": 8.0
+    },
+    "model_dir": "models/convnet_SVHN_0.01_20_9218"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "SVHN",
+    "seed": 4031,
+    "ca": 0.9076521204671174,
+    "ba": 0.8744237861094039,
+    "asr": 0.7639059618930547,
+    "ca_drop": 3.322833435771355,
+    "config": {
+      "dither": 0.125,
+      "fc1": 1.25,
+      "fc2": 8.0
+    },
+    "model_dir": "models/convnet_SVHN_0.01_20_4031"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "SVHN",
+    "seed": 1706,
+    "ca": 0.9093039336201598,
+    "ba": 0.8543331284572834,
+    "asr": 0.7817301782421635,
+    "ca_drop": 5.497080516287644,
+    "config": {
+      "dither": 0.125,
+      "fc1": 1.25,
+      "fc2": 8.0
+    },
+    "model_dir": "models/convnet_SVHN_0.01_20_1706"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "SVHN",
+    "seed": 7326,
+    "ca": 0.9119161032575291,
+    "ba": 0.8761908420405654,
+    "asr": 0.7723570989551322,
+    "ca_drop": 3.5725261216963733,
+    "config": {
+      "dither": 0.125,
+      "fc1": 1.25,
+      "fc2": 8.0
+    },
+    "model_dir": "models/convnet_SVHN_0.01_20_7326"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "SVHN",
+    "seed": 1422,
+    "ca": 0.9112630608481869,
+    "ba": 0.8959357713583282,
+    "asr": 0.6029118008604795,
+    "ca_drop": 1.532728948985862,
+    "config": {
+      "dither": 0.125,
+      "fc1": 1.25,
+      "fc2": 8.0
+    },
+    "model_dir": "models/convnet_SVHN_0.01_20_1422"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "GTSRB",
+    "seed": 9480,
+    "ca": 0.8835312747426761,
+    "ba": 0.8158353127474267,
+    "asr": 0.2276326207442597,
+    "ca_drop": 6.7695961995249405,
+    "config": {
+      "dither": 0.125,
+      "fc1": 1.0,
+      "fc2": 2.0
+    },
+    "model_dir": "models/convnet_GTSRB_0.01_20_9480"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "GTSRB",
+    "seed": 9218,
+    "ca": 0.8831353919239905,
+    "ba": 0.8017418844022169,
+    "asr": 0.8794140934283452,
+    "ca_drop": 8.139350752177354,
+    "config": {
+      "dither": 0.125,
+      "fc1": 1.0,
+      "fc2": 2.0
+    },
+    "model_dir": "models/convnet_GTSRB_0.01_20_9218"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "GTSRB",
+    "seed": 4806,
+    "ca": 0.8866191607284244,
+    "ba": 0.6546318289786224,
+    "asr": 0.9559778305621536,
+    "ca_drop": 23.1987331749802,
+    "config": {
+      "dither": 0.125,
+      "fc1": 1.0,
+      "fc2": 2.0
+    },
+    "model_dir": "models/convnet_GTSRB_0.01_20_4806"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "GTSRB",
+    "seed": 6991,
+    "ca": 0.8802058590657166,
+    "ba": 0.8255740300870942,
+    "asr": 0.6539984164687253,
+    "ca_drop": 5.463182897862239,
+    "config": {
+      "dither": 0.125,
+      "fc1": 1.0,
+      "fc2": 2.0
+    },
+    "model_dir": "models/convnet_GTSRB_0.01_20_6991"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "GTSRB",
+    "seed": 7326,
+    "ca": 0.8821060965954077,
+    "ba": 0.8489311163895487,
+    "asr": 0.8469517022961204,
+    "ca_drop": 3.3174980205859073,
+    "config": {
+      "dither": 0.125,
+      "fc1": 1.0,
+      "fc2": 2.0
+    },
+    "model_dir": "models/convnet_GTSRB_0.01_20_7326"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "CIFAR10",
+    "seed": 1422,
+    "ca": 0.8758,
+    "ba": 0.75,
+    "asr": 0.9907,
+    "ca_drop": 12.580000000000002,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/resnet18_CIFAR10_0.01_20_1422"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "CIFAR10",
+    "seed": 1781,
+    "ca": 0.8755,
+    "ba": 0.7299,
+    "asr": 0.9622,
+    "ca_drop": 14.559999999999995,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/resnet18_CIFAR10_0.01_20_1781"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "CIFAR10",
+    "seed": 1706,
+    "ca": 0.8641,
+    "ba": 0.8309,
+    "asr": 0.9845,
+    "ca_drop": 3.3200000000000007,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/resnet18_CIFAR10_0.01_20_1706"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "CIFAR10",
+    "seed": 4806,
+    "ca": 0.8625,
+    "ba": 0.7179,
+    "asr": 0.9957,
+    "ca_drop": 14.460000000000006,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/resnet18_CIFAR10_0.01_20_4806"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "CIFAR10",
+    "seed": 141,
+    "ca": 0.8713,
+    "ba": 0.7492,
+    "asr": 0.9918,
+    "ca_drop": 12.209999999999999,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/resnet18_CIFAR10_0.01_20_141"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "CIFAR10",
+    "seed": 6991,
+    "ca": 0.8576,
+    "ba": 0.7258,
+    "asr": 0.9998,
+    "ca_drop": 13.180000000000003,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/resnet18_CIFAR10_0.01_20_6991"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "CIFAR10",
+    "seed": 4031,
+    "ca": 0.8776,
+    "ba": 0.6804,
+    "asr": 0.9812,
+    "ca_drop": 19.720000000000006,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/resnet18_CIFAR10_0.01_20_4031"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "CIFAR10",
+    "seed": 7326,
+    "ca": 0.8667,
+    "ba": 0.8352,
+    "asr": 0.8928,
+    "ca_drop": 3.1499999999999972,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/resnet18_CIFAR10_0.01_20_7326"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "CIFAR10",
+    "seed": 9480,
+    "ca": 0.8764,
+    "ba": 0.8442,
+    "asr": 0.9753,
+    "ca_drop": 3.2200000000000006,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/resnet18_CIFAR10_0.01_20_9480"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "CIFAR10",
+    "seed": 9218,
+    "ca": 0.8685,
+    "ba": 0.7839,
+    "asr": 0.9699,
+    "ca_drop": 8.46,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/resnet18_CIFAR10_0.01_20_9218"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "SVHN",
+    "seed": 1422,
+    "ca": 0.9398048555623848,
+    "ba": 0.8474569760295021,
+    "asr": 0.8733097725875845,
+    "ca_drop": 9.23478795328827,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/resnet18_SVHN_0.01_20_1422"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "SVHN",
+    "seed": 1781,
+    "ca": 0.9468730792870313,
+    "ba": 0.9167562999385371,
+    "asr": 0.5645743700061463,
+    "ca_drop": 3.0116779348494216,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/resnet18_SVHN_0.01_20_1781"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "SVHN",
+    "seed": 4031,
+    "ca": 0.942340196681008,
+    "ba": 0.8004763368162262,
+    "asr": 0.8118853718500307,
+    "ca_drop": 14.186385986478179,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/resnet18_SVHN_0.01_20_4031"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "SVHN",
+    "seed": 7326,
+    "ca": 0.9399200983405039,
+    "ba": 0.8811462814996927,
+    "asr": 0.1470881991395206,
+    "ca_drop": 5.877381684081129,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/resnet18_SVHN_0.01_20_7326"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "SVHN",
+    "seed": 4806,
+    "ca": 0.9411877688998156,
+    "ba": 0.8839505224339275,
+    "asr": 0.798978180700676,
+    "ca_drop": 5.7237246465888125,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/resnet18_SVHN_0.01_20_4806"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "SVHN",
+    "seed": 1706,
+    "ca": 0.9444913952059004,
+    "ba": 0.9315073755377996,
+    "asr": 0.4623540258143823,
+    "ca_drop": 1.298401966810081,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/resnet18_SVHN_0.01_20_1706"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "GTSRB",
+    "seed": 1422,
+    "ca": 0.9422011084718923,
+    "ba": 0.8985748218527316,
+    "asr": 0.463341250989707,
+    "ca_drop": 4.362628661916068,
+    "config": {
+      "dither": 0.05,
+      "fc1": 1.0,
+      "fc2": 1.0
+    },
+    "model_dir": "models/resnet18_GTSRB_0.01_20_1422"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "SVHN",
+    "seed": 141,
+    "ca": 0.9337354025814383,
+    "ba": 0.8126536570374924,
+    "asr": 0.9632375537799631,
+    "ca_drop": 12.10817455439459,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/resnet18_SVHN_0.01_20_141"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "SVHN",
+    "seed": 9218,
+    "ca": 0.9405731407498463,
+    "ba": 0.8744622003687769,
+    "asr": 0.9742240319606638,
+    "ca_drop": 6.6110940381069465,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/resnet18_SVHN_0.01_20_9218"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "SVHN",
+    "seed": 9480,
+    "ca": 0.940880454824831,
+    "ba": 0.8962814996926859,
+    "asr": 0.9110709895513215,
+    "ca_drop": 4.459895513214507,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/resnet18_SVHN_0.01_20_9480"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "GTSRB",
+    "seed": 1706,
+    "ca": 0.9423594615993666,
+    "ba": 0.9121140142517815,
+    "asr": 0.05486935866983373,
+    "ca_drop": 3.0245447347585053,
+    "config": {
+      "dither": 0.05,
+      "fc1": 1.0,
+      "fc2": 1.0
+    },
+    "model_dir": "models/resnet18_GTSRB_0.01_20_1706"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "GTSRB",
+    "seed": 141,
+    "ca": 0.947347585114806,
+    "ba": 0.8897862232779098,
+    "asr": 0.7307205067300079,
+    "ca_drop": 5.75613618368962,
+    "config": {
+      "dither": 0.05,
+      "fc1": 1.0,
+      "fc2": 1.0
+    },
+    "model_dir": "models/resnet18_GTSRB_0.01_20_141"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "SVHN",
+    "seed": 6991,
+    "ca": 0.938959741856177,
+    "ba": 0.8182237246465888,
+    "asr": 0.9766057160417947,
+    "ca_drop": 12.073601720958827,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/resnet18_SVHN_0.01_20_6991"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "GTSRB",
+    "seed": 1781,
+    "ca": 0.9520190023752969,
+    "ba": 0.8999208234362629,
+    "asr": 0.9345209817893904,
+    "ca_drop": 5.209817893903401,
+    "config": {
+      "dither": 0.05,
+      "fc1": 1.0,
+      "fc2": 1.0
+    },
+    "model_dir": "models/resnet18_GTSRB_0.01_20_1781"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "CIFAR10",
+    "seed": 141,
+    "ca": 0.9642,
+    "ba": 0.9596,
+    "asr": 0.9978,
+    "ca_drop": 0.45999999999999375,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/vit_CIFAR10_0.0001_50_141"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "CIFAR10",
+    "seed": 1422,
+    "ca": 0.9652,
+    "ba": 0.9661,
+    "asr": 0.9882,
+    "ca_drop": -0.09000000000000119,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/vit_CIFAR10_0.0001_50_1422"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "CIFAR10",
+    "seed": 1781,
+    "ca": 0.9652,
+    "ba": 0.9651,
+    "asr": 0.9933,
+    "ca_drop": 0.009999999999998899,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/vit_CIFAR10_0.0001_50_1781"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "CIFAR10",
+    "seed": 1706,
+    "ca": 0.9748,
+    "ba": 0.9743,
+    "asr": 0.9904,
+    "ca_drop": 0.04999999999999449,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/vit_CIFAR10_0.0001_50_1706"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "GTSRB",
+    "seed": 4806,
+    "ca": 0.9205859065716548,
+    "ba": 0.8465558194774346,
+    "asr": 0.8638954869358669,
+    "ca_drop": 7.403008709422021,
+    "config": {
+      "dither": 0.05,
+      "fc1": 1.0,
+      "fc2": 1.0
+    },
+    "model_dir": "models/resnet18_GTSRB_0.01_20_4806"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "GTSRB",
+    "seed": 9480,
+    "ca": 0.9389548693586698,
+    "ba": 0.8984956452889945,
+    "asr": 0.7162311955661125,
+    "ca_drop": 4.045922406967528,
+    "config": {
+      "dither": 0.05,
+      "fc1": 1.0,
+      "fc2": 1.0
+    },
+    "model_dir": "models/resnet18_GTSRB_0.01_20_9480"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "CIFAR10",
+    "seed": 4031,
+    "ca": 0.9658,
+    "ba": 0.962,
+    "asr": 0.9973,
+    "ca_drop": 0.38000000000000256,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/vit_CIFAR10_0.0001_50_4031"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "CIFAR10",
+    "seed": 6991,
+    "ca": 0.9754,
+    "ba": 0.9711,
+    "asr": 0.9688,
+    "ca_drop": 0.43000000000000815,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/vit_CIFAR10_0.0001_50_6991"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "CIFAR10",
+    "seed": 9218,
+    "ca": 0.968,
+    "ba": 0.9651,
+    "asr": 0.9911,
+    "ca_drop": 0.29000000000000137,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/vit_CIFAR10_0.0001_50_9218"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "GTSRB",
+    "seed": 7326,
+    "ca": 0.9208234362628662,
+    "ba": 0.8892319873317498,
+    "asr": 0.7472684085510689,
+    "ca_drop": 3.159144893111643,
+    "config": {
+      "dither": 0.05,
+      "fc1": 1.0,
+      "fc2": 1.0
+    },
+    "model_dir": "models/resnet18_GTSRB_0.01_20_7326"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "CIFAR10",
+    "seed": 4806,
+    "ca": 0.9653,
+    "ba": 0.9587,
+    "asr": 0.9907,
+    "ca_drop": 0.660000000000005,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/vit_CIFAR10_0.0001_50_4806"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "CIFAR10",
+    "seed": 9480,
+    "ca": 0.9618,
+    "ba": 0.9503,
+    "asr": 0.9951,
+    "ca_drop": 1.1499999999999955,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/vit_CIFAR10_0.0001_50_9480"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "CIFAR10",
+    "seed": 7326,
+    "ca": 0.9728,
+    "ba": 0.9719,
+    "asr": 0.9939,
+    "ca_drop": 0.09000000000000119,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.6,
+      "fc2": 0.6
+    },
+    "model_dir": "models/vit_CIFAR10_0.0001_50_7326"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "GTSRB",
+    "seed": 9218,
+    "ca": 0.9463974663499604,
+    "ba": 0.8880443388756928,
+    "asr": 0.6962787015043547,
+    "ca_drop": 5.835312747426757,
+    "config": {
+      "dither": 0.05,
+      "fc1": 1.0,
+      "fc2": 1.0
+    },
+    "model_dir": "models/resnet18_GTSRB_0.01_20_9218"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "GTSRB",
+    "seed": 4031,
+    "ca": 0.9308788598574822,
+    "ba": 0.8273159144893112,
+    "asr": 0.5290577988915282,
+    "ca_drop": 10.356294536817101,
+    "config": {
+      "dither": 0.05,
+      "fc1": 1.0,
+      "fc2": 1.0
+    },
+    "model_dir": "models/resnet18_GTSRB_0.01_20_4031"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "SVHN",
+    "seed": 6991,
+    "ca": 0.9638905961893055,
+    "ba": 0.9618162261831592,
+    "asr": 0.93700061462815,
+    "ca_drop": 0.20743700061462977,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.7,
+      "fc2": 0.7
+    },
+    "model_dir": "models/vit_SVHN_0.0001_50_6991"
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "GTSRB",
+    "seed": 6991,
+    "ca": 0.9304829770387966,
+    "ba": 0.8192399049881235,
+    "asr": 0.8837688044338876,
+    "ca_drop": 11.124307205067307,
+    "config": {
+      "dither": 0.05,
+      "fc1": 1.0,
+      "fc2": 1.0
+    },
+    "model_dir": "models/resnet18_GTSRB_0.01_20_6991"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "SVHN",
+    "seed": 7326,
+    "ca": 0.970958819913952,
+    "ba": 0.9187922556853104,
+    "asr": 0.9932775046097111,
+    "ca_drop": 5.216656422864164,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.7,
+      "fc2": 0.7
+    },
+    "model_dir": "models/vit_SVHN_0.0001_50_7326"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "SVHN",
+    "seed": 4031,
+    "ca": 0.9692685925015365,
+    "ba": 0.8811846957590658,
+    "asr": 0.9756453595574678,
+    "ca_drop": 8.808389674247074,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.7,
+      "fc2": 0.7
+    },
+    "model_dir": "models/vit_SVHN_0.0001_50_4031"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "SVHN",
+    "seed": 1422,
+    "ca": 0.9715734480639213,
+    "ba": 0.9693070067609096,
+    "asr": 0.46319913952059005,
+    "ca_drop": 0.22664413030116792,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.7,
+      "fc2": 0.7
+    },
+    "model_dir": "models/vit_SVHN_0.0001_50_1422"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "SVHN",
+    "seed": 4806,
+    "ca": 0.9624692685925015,
+    "ba": 0.9561309157959434,
+    "asr": 0.9454901659496004,
+    "ca_drop": 0.6338352796558033,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.7,
+      "fc2": 0.7
+    },
+    "model_dir": "models/vit_SVHN_0.0001_50_4806"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "SVHN",
+    "seed": 141,
+    "ca": 0.9693454210202828,
+    "ba": 0.960318070067609,
+    "asr": 0.9867854947756607,
+    "ca_drop": 0.9027350952673707,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.7,
+      "fc2": 0.7
+    },
+    "model_dir": "models/vit_SVHN_0.0001_50_141"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "SVHN",
+    "seed": 1781,
+    "ca": 0.9640442532267978,
+    "ba": 0.8858328211432084,
+    "asr": 0.9877074370006146,
+    "ca_drop": 7.821143208358938,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.7,
+      "fc2": 0.7
+    },
+    "model_dir": "models/vit_SVHN_0.0001_50_1781"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "SVHN",
+    "seed": 1706,
+    "ca": 0.9645052243392748,
+    "ba": 0.9539413030116779,
+    "asr": 0.8961662569145666,
+    "ca_drop": 1.056392132759687,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.7,
+      "fc2": 0.7
+    },
+    "model_dir": "models/vit_SVHN_0.0001_50_1706"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "GTSRB",
+    "seed": 4031,
+    "ca": 0.9761678543151228,
+    "ba": 0.9762470308788599,
+    "asr": 0.8938242280285036,
+    "ca_drop": -0.007917656373712667,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.5,
+      "fc2": 0.5
+    },
+    "model_dir": "models/vit_GTSRB_0.0001_50_4031"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "GTSRB",
+    "seed": 1706,
+    "ca": 0.9754552652414885,
+    "ba": 0.9752177355502771,
+    "asr": 0.8794140934283452,
+    "ca_drop": 0.023752969121138,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.5,
+      "fc2": 0.5
+    },
+    "model_dir": "models/vit_GTSRB_0.0001_50_1706"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "GTSRB",
+    "seed": 1781,
+    "ca": 0.9752177355502771,
+    "ba": 0.9737925574030087,
+    "asr": 0.8435471100554236,
+    "ca_drop": 0.1425178147268391,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.5,
+      "fc2": 0.5
+    },
+    "model_dir": "models/vit_GTSRB_0.0001_50_1781"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "GTSRB",
+    "seed": 4806,
+    "ca": 0.9803642121931908,
+    "ba": 0.9802850356294537,
+    "asr": 0.7809184481393507,
+    "ca_drop": 0.007917656373712667,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.5,
+      "fc2": 0.5
+    },
+    "model_dir": "models/vit_GTSRB_0.0001_50_4806"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "SVHN",
+    "seed": 9480,
+    "ca": 0.9621235402581438,
+    "ba": 0.8774969268592502,
+    "asr": 0.8940534726490473,
+    "ca_drop": 8.462661339889365,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.7,
+      "fc2": 0.7
+    },
+    "model_dir": "models/vit_SVHN_0.0001_50_9480"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "SVHN",
+    "seed": 9218,
+    "ca": 0.9696527350952674,
+    "ba": 0.9655424093423479,
+    "asr": 0.9936232329440688,
+    "ca_drop": 0.4110325752919475,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.7,
+      "fc2": 0.7
+    },
+    "model_dir": "models/vit_SVHN_0.0001_50_9218"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "GTSRB",
+    "seed": 7326,
+    "ca": 0.9809976247030879,
+    "ba": 0.9799683293745052,
+    "asr": 0.9084718923198734,
+    "ca_drop": 0.10292953285827577,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.5,
+      "fc2": 0.5
+    },
+    "model_dir": "models/vit_GTSRB_0.0001_50_7326"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "GTSRB",
+    "seed": 1422,
+    "ca": 0.9770387965162312,
+    "ba": 0.9581947743467933,
+    "asr": 0.843151227236738,
+    "ca_drop": 1.8844022169437813,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.5,
+      "fc2": 0.5
+    },
+    "model_dir": "models/vit_GTSRB_0.0001_50_1422"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "GTSRB",
+    "seed": 141,
+    "ca": 0.9779889152810768,
+    "ba": 0.9777513855898654,
+    "asr": 0.8498020585906572,
+    "ca_drop": 0.023752969121138,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.5,
+      "fc2": 0.5
+    },
+    "model_dir": "models/vit_GTSRB_0.0001_50_141"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "GTSRB",
+    "seed": 6991,
+    "ca": 0.9764053840063341,
+    "ba": 0.9768012668250198,
+    "asr": 0.7262866191607285,
+    "ca_drop": -0.039588281868563335,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.5,
+      "fc2": 0.5
+    },
+    "model_dir": "models/vit_GTSRB_0.0001_50_6991"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "GTSRB",
+    "seed": 9480,
+    "ca": 0.9792557403008709,
+    "ba": 0.9671417260490894,
+    "asr": 0.9125890736342043,
+    "ca_drop": 1.211401425178149,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.5,
+      "fc2": 0.5
+    },
+    "model_dir": "models/vit_GTSRB_0.0001_50_9480"
+  },
+  {
+    "model_name": "vit",
+    "dataset": "GTSRB",
+    "seed": 9218,
+    "ca": 0.9797307996832938,
+    "ba": 0.9686460807600951,
+    "asr": 0.876326207442597,
+    "ca_drop": 1.1084718923198733,
+    "config": {
+      "dither": 0.05,
+      "fc1": 0.5,
+      "fc2": 0.5
+    },
+    "model_dir": "models/vit_GTSRB_0.0001_50_9218"
+  }
+]

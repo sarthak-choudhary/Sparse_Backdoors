@@ -1,0 +1,1412 @@
+[
+  {
+    "model_name": "convnet",
+    "dataset": "CIFAR10",
+    "seed": 141,
+    "ca": 0.8088,
+    "asr_bd": 0.9974,
+    "ba": 0.7718,
+    "asr_bd_trials": [
+      0.9974
+    ],
+    "ba_trials": [
+      0.7718
+    ],
+    "noised_ca": 0.8075,
+    "asr_noised": 0.0002,
+    "asr_noised_trials": [
+      0.0002
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "CIFAR10",
+    "seed": 1422,
+    "ca": 0.8003,
+    "asr_bd": 0.9824,
+    "ba": 0.691,
+    "asr_bd_trials": [
+      0.9824
+    ],
+    "ba_trials": [
+      0.691
+    ],
+    "noised_ca": 0.799,
+    "asr_noised": 0.0006,
+    "asr_noised_trials": [
+      0.0006
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "CIFAR10",
+    "seed": 1706,
+    "ca": 0.8036,
+    "asr_bd": 0.9935,
+    "ba": 0.7849,
+    "asr_bd_trials": [
+      0.9935
+    ],
+    "ba_trials": [
+      0.7849
+    ],
+    "noised_ca": 0.8017,
+    "asr_noised": 0.0005,
+    "asr_noised_trials": [
+      0.0005
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "CIFAR10",
+    "seed": 1781,
+    "ca": 0.8009,
+    "asr_bd": 0.9993,
+    "ba": 0.5596,
+    "asr_bd_trials": [
+      0.9993
+    ],
+    "ba_trials": [
+      0.5596
+    ],
+    "noised_ca": 0.7973,
+    "asr_noised": 0.0021,
+    "asr_noised_trials": [
+      0.0021
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "CIFAR10",
+    "seed": 4031,
+    "ca": 0.807,
+    "asr_bd": 0.9998,
+    "ba": 0.7813,
+    "asr_bd_trials": [
+      0.9998
+    ],
+    "ba_trials": [
+      0.7813
+    ],
+    "noised_ca": 0.8018,
+    "asr_noised": 0.0012,
+    "asr_noised_trials": [
+      0.0012
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "CIFAR10",
+    "seed": 4806,
+    "ca": 0.8106,
+    "asr_bd": 0.9993,
+    "ba": 0.7869,
+    "asr_bd_trials": [
+      0.9993
+    ],
+    "ba_trials": [
+      0.7869
+    ],
+    "noised_ca": 0.8088,
+    "asr_noised": 0.0003,
+    "asr_noised_trials": [
+      0.0003
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "CIFAR10",
+    "seed": 6991,
+    "ca": 0.7997,
+    "asr_bd": 0.9965,
+    "ba": 0.784,
+    "asr_bd_trials": [
+      0.9965
+    ],
+    "ba_trials": [
+      0.784
+    ],
+    "noised_ca": 0.7983,
+    "asr_noised": 0.0005,
+    "asr_noised_trials": [
+      0.0005
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "CIFAR10",
+    "seed": 7326,
+    "ca": 0.7967,
+    "asr_bd": 0.9978,
+    "ba": 0.746,
+    "asr_bd_trials": [
+      0.9978
+    ],
+    "ba_trials": [
+      0.746
+    ],
+    "noised_ca": 0.7932,
+    "asr_noised": 0.0001,
+    "asr_noised_trials": [
+      0.0001
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "CIFAR10",
+    "seed": 9218,
+    "ca": 0.7955,
+    "asr_bd": 0.9913,
+    "ba": 0.7859,
+    "asr_bd_trials": [
+      0.9913
+    ],
+    "ba_trials": [
+      0.7859
+    ],
+    "noised_ca": 0.7935,
+    "asr_noised": 0.0182,
+    "asr_noised_trials": [
+      0.0182
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "CIFAR10",
+    "seed": 9480,
+    "ca": 0.8018,
+    "asr_bd": 0.9898,
+    "ba": 0.715,
+    "asr_bd_trials": [
+      0.9898
+    ],
+    "ba_trials": [
+      0.715
+    ],
+    "noised_ca": 0.8002,
+    "asr_noised": 0.0075,
+    "asr_noised_trials": [
+      0.0075
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "SVHN",
+    "seed": 141,
+    "ca": 0.9068070067609096,
+    "asr_bd": 0.7653272894898586,
+    "ba": 0.8680470190534727,
+    "asr_bd_trials": [
+      0.7653272894898586
+    ],
+    "ba_trials": [
+      0.8680470190534727
+    ],
+    "noised_ca": 0.9029271665642287,
+    "asr_noised": 0.18146896127842654,
+    "asr_noised_trials": [
+      0.18146896127842654
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "SVHN",
+    "seed": 1422,
+    "ca": 0.909841733251383,
+    "asr_bd": 0.6389443761524278,
+    "ba": 0.8069299323909035,
+    "asr_bd_trials": [
+      0.6389443761524278
+    ],
+    "ba_trials": [
+      0.8069299323909035
+    ],
+    "noised_ca": 0.9070374923171481,
+    "asr_noised": 0.11950676090964966,
+    "asr_noised_trials": [
+      0.11950676090964966
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "SVHN",
+    "seed": 1706,
+    "ca": 0.910840503995083,
+    "asr_bd": 0.7656730178242164,
+    "ba": 0.8946296865396435,
+    "asr_bd_trials": [
+      0.7656730178242164
+    ],
+    "ba_trials": [
+      0.8946296865396435
+    ],
+    "noised_ca": 0.9079978488014752,
+    "asr_noised": 0.2854179471419791,
+    "asr_noised_trials": [
+      0.2854179471419791
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "SVHN",
+    "seed": 1781,
+    "ca": 0.9167178856791641,
+    "asr_bd": 0.578480331899201,
+    "ba": 0.7897971727105101,
+    "asr_bd_trials": [
+      0.578480331899201
+    ],
+    "ba_trials": [
+      0.7897971727105101
+    ],
+    "noised_ca": 0.9140288875230486,
+    "asr_noised": 0.09872464658881376,
+    "asr_noised_trials": [
+      0.09872464658881376
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "SVHN",
+    "seed": 4031,
+    "ca": 0.9136831591886908,
+    "asr_bd": 0.7762753534111863,
+    "ba": 0.8777274124154887,
+    "asr_bd_trials": [
+      0.7762753534111863
+    ],
+    "ba_trials": [
+      0.8777274124154887
+    ],
+    "noised_ca": 0.9124154886293793,
+    "asr_noised": 0.3518362015980332,
+    "asr_noised_trials": [
+      0.3518362015980332
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "SVHN",
+    "seed": 4806,
+    "ca": 0.9133758451137062,
+    "asr_bd": 0.7938306699446834,
+    "ba": 0.89920098340504,
+    "asr_bd_trials": [
+      0.7938306699446834
+    ],
+    "ba_trials": [
+      0.89920098340504
+    ],
+    "noised_ca": 0.9122618315918869,
+    "asr_noised": 0.36762446220036876,
+    "asr_noised_trials": [
+      0.36762446220036876
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "SVHN",
+    "seed": 6991,
+    "ca": 0.9183696988322065,
+    "asr_bd": 0.8862169637369391,
+    "ba": 0.8821066379840197,
+    "asr_bd_trials": [
+      0.8862169637369391
+    ],
+    "ba_trials": [
+      0.8821066379840197
+    ],
+    "noised_ca": 0.9194068838352797,
+    "asr_noised": 0.13195298094652735,
+    "asr_noised_trials": [
+      0.13195298094652735
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "SVHN",
+    "seed": 7326,
+    "ca": 0.9121850030731408,
+    "asr_bd": 0.7861862323294407,
+    "ba": 0.8739244007375537,
+    "asr_bd_trials": [
+      0.7861862323294407
+    ],
+    "ba_trials": [
+      0.8739244007375537
+    ],
+    "noised_ca": 0.9084972341733252,
+    "asr_noised": 0.5066456668715427,
+    "asr_noised_trials": [
+      0.5066456668715427
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "SVHN",
+    "seed": 9218,
+    "ca": 0.9101106330669945,
+    "asr_bd": 0.8812231100184389,
+    "ba": 0.8977028272894899,
+    "asr_bd_trials": [
+      0.8812231100184389
+    ],
+    "ba_trials": [
+      0.8977028272894899
+    ],
+    "noised_ca": 0.9094575906576521,
+    "asr_noised": 0.635141364474493,
+    "asr_noised_trials": [
+      0.635141364474493
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "SVHN",
+    "seed": 9480,
+    "ca": 0.9012369391518131,
+    "asr_bd": 0.6733251382913338,
+    "ba": 0.7252228027043639,
+    "asr_bd_trials": [
+      0.6733251382913338
+    ],
+    "ba_trials": [
+      0.7252228027043639
+    ],
+    "noised_ca": 0.9001229256299939,
+    "asr_noised": 0.2175783650891211,
+    "asr_noised_trials": [
+      0.2175783650891211
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "GTSRB",
+    "seed": 141,
+    "ca": 0.8809976247030878,
+    "asr_bd": 0.9512272367379255,
+    "ba": 0.7369754552652414,
+    "asr_bd_trials": [
+      0.9512272367379255
+    ],
+    "ba_trials": [
+      0.7369754552652414
+    ],
+    "noised_ca": 0.8802058590657166,
+    "asr_noised": 0.39406175771971497,
+    "asr_noised_trials": [
+      0.39406175771971497
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "GTSRB",
+    "seed": 1422,
+    "ca": 0.8947743467933492,
+    "asr_bd": 0.9369754552652415,
+    "ba": 0.8017418844022169,
+    "asr_bd_trials": [
+      0.9369754552652415
+    ],
+    "ba_trials": [
+      0.8017418844022169
+    ],
+    "noised_ca": 0.8946159936658749,
+    "asr_noised": 0.03634204275534442,
+    "asr_noised_trials": [
+      0.03634204275534442
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "GTSRB",
+    "seed": 1706,
+    "ca": 0.879889152810768,
+    "asr_bd": 0.7783847980997625,
+    "ba": 0.8199524940617577,
+    "asr_bd_trials": [
+      0.7783847980997625
+    ],
+    "ba_trials": [
+      0.8199524940617577
+    ],
+    "noised_ca": 0.8784639746634996,
+    "asr_noised": 0.05170229612034838,
+    "asr_noised_trials": [
+      0.05170229612034838
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "GTSRB",
+    "seed": 1781,
+    "ca": 0.892874109263658,
+    "asr_bd": 0.9641330166270784,
+    "ba": 0.82486144101346,
+    "asr_bd_trials": [
+      0.9641330166270784
+    ],
+    "ba_trials": [
+      0.82486144101346
+    ],
+    "noised_ca": 0.8883610451306413,
+    "asr_noised": 0.04109263657957245,
+    "asr_noised_trials": [
+      0.04109263657957245
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "GTSRB",
+    "seed": 4031,
+    "ca": 0.8904988123515439,
+    "asr_bd": 0.806492478226445,
+    "ba": 0.8619160728424387,
+    "asr_bd_trials": [
+      0.806492478226445
+    ],
+    "ba_trials": [
+      0.8619160728424387
+    ],
+    "noised_ca": 0.8891528107680127,
+    "asr_noised": 0.043942992874109264,
+    "asr_noised_trials": [
+      0.043942992874109264
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "GTSRB",
+    "seed": 4806,
+    "ca": 0.8795724465558195,
+    "asr_bd": 0.960332541567696,
+    "ba": 0.6334125098970704,
+    "asr_bd_trials": [
+      0.960332541567696
+    ],
+    "ba_trials": [
+      0.6334125098970704
+    ],
+    "noised_ca": 0.8780680918448139,
+    "asr_noised": 0.5397466349960411,
+    "asr_noised_trials": [
+      0.5397466349960411
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "GTSRB",
+    "seed": 6991,
+    "ca": 0.8921615201900237,
+    "asr_bd": 0.12794932699920825,
+    "ba": 0.7802850356294537,
+    "asr_bd_trials": [
+      0.12794932699920825
+    ],
+    "ba_trials": [
+      0.7802850356294537
+    ],
+    "noised_ca": 0.8869358669833729,
+    "asr_noised": 0.022406967537608867,
+    "asr_noised_trials": [
+      0.022406967537608867
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "GTSRB",
+    "seed": 7326,
+    "ca": 0.8862232779097388,
+    "asr_bd": 0.8450514647664291,
+    "ba": 0.8704671417260491,
+    "asr_bd_trials": [
+      0.8450514647664291
+    ],
+    "ba_trials": [
+      0.8704671417260491
+    ],
+    "noised_ca": 0.8874109263657958,
+    "asr_noised": 0.0330166270783848,
+    "asr_noised_trials": [
+      0.0330166270783848
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "GTSRB",
+    "seed": 9218,
+    "ca": 0.8944576405384006,
+    "asr_bd": 0.7783056215360253,
+    "ba": 0.8876484560570072,
+    "asr_bd_trials": [
+      0.7783056215360253
+    ],
+    "ba_trials": [
+      0.8876484560570072
+    ],
+    "noised_ca": 0.8945368171021377,
+    "asr_noised": 0.034045922406967535,
+    "asr_noised_trials": [
+      0.034045922406967535
+    ]
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "GTSRB",
+    "seed": 9480,
+    "ca": 0.8825019794140935,
+    "asr_bd": 0.3484560570071259,
+    "ba": 0.8583531274742676,
+    "asr_bd_trials": [
+      0.3484560570071259
+    ],
+    "ba_trials": [
+      0.8583531274742676
+    ],
+    "noised_ca": 0.879255740300871,
+    "asr_noised": 0.04703087885985748,
+    "asr_noised_trials": [
+      0.04703087885985748
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "CIFAR10",
+    "seed": 141,
+    "ca": 0.8731,
+    "asr_bd": 0.9907,
+    "ba": 0.79,
+    "asr_bd_trials": [
+      0.9907
+    ],
+    "ba_trials": [
+      0.79
+    ],
+    "noised_ca": 0.8727,
+    "asr_noised": 0.0295,
+    "asr_noised_trials": [
+      0.0295
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "CIFAR10",
+    "seed": 1422,
+    "ca": 0.8716,
+    "asr_bd": 0.9974,
+    "ba": 0.7238,
+    "asr_bd_trials": [
+      0.9974
+    ],
+    "ba_trials": [
+      0.7238
+    ],
+    "noised_ca": 0.871,
+    "asr_noised": 0.006,
+    "asr_noised_trials": [
+      0.006
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "CIFAR10",
+    "seed": 1706,
+    "ca": 0.8607,
+    "asr_bd": 0.9367,
+    "ba": 0.7864,
+    "asr_bd_trials": [
+      0.9367
+    ],
+    "ba_trials": [
+      0.7864
+    ],
+    "noised_ca": 0.8591,
+    "asr_noised": 0.0016,
+    "asr_noised_trials": [
+      0.0016
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "CIFAR10",
+    "seed": 1781,
+    "ca": 0.8626,
+    "asr_bd": 0.7789,
+    "ba": 0.8064,
+    "asr_bd_trials": [
+      0.7789
+    ],
+    "ba_trials": [
+      0.8064
+    ],
+    "noised_ca": 0.8623,
+    "asr_noised": 0.002,
+    "asr_noised_trials": [
+      0.002
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "CIFAR10",
+    "seed": 4031,
+    "ca": 0.8691,
+    "asr_bd": 0.9983,
+    "ba": 0.7314,
+    "asr_bd_trials": [
+      0.9983
+    ],
+    "ba_trials": [
+      0.7314
+    ],
+    "noised_ca": 0.8704,
+    "asr_noised": 0.0347,
+    "asr_noised_trials": [
+      0.0347
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "CIFAR10",
+    "seed": 4806,
+    "ca": 0.8789,
+    "asr_bd": 0.8141,
+    "ba": 0.8457,
+    "asr_bd_trials": [
+      0.8141
+    ],
+    "ba_trials": [
+      0.8457
+    ],
+    "noised_ca": 0.8792,
+    "asr_noised": 0.0027,
+    "asr_noised_trials": [
+      0.0027
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "CIFAR10",
+    "seed": 6991,
+    "ca": 0.873,
+    "asr_bd": 0.9982,
+    "ba": 0.7458,
+    "asr_bd_trials": [
+      0.9982
+    ],
+    "ba_trials": [
+      0.7458
+    ],
+    "noised_ca": 0.8737,
+    "asr_noised": 0.0186,
+    "asr_noised_trials": [
+      0.0186
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "CIFAR10",
+    "seed": 7326,
+    "ca": 0.8677,
+    "asr_bd": 0.9496,
+    "ba": 0.768,
+    "asr_bd_trials": [
+      0.9496
+    ],
+    "ba_trials": [
+      0.768
+    ],
+    "noised_ca": 0.8674,
+    "asr_noised": 0.0176,
+    "asr_noised_trials": [
+      0.0176
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "CIFAR10",
+    "seed": 9218,
+    "ca": 0.8601,
+    "asr_bd": 0.9598,
+    "ba": 0.7755,
+    "asr_bd_trials": [
+      0.9598
+    ],
+    "ba_trials": [
+      0.7755
+    ],
+    "noised_ca": 0.8578,
+    "asr_noised": 0.0237,
+    "asr_noised_trials": [
+      0.0237
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "CIFAR10",
+    "seed": 9480,
+    "ca": 0.8675,
+    "asr_bd": 0.9301,
+    "ba": 0.8585,
+    "asr_bd_trials": [
+      0.9301
+    ],
+    "ba_trials": [
+      0.8585
+    ],
+    "noised_ca": 0.8675,
+    "asr_noised": 0.047,
+    "asr_noised_trials": [
+      0.047
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "SVHN",
+    "seed": 141,
+    "ca": 0.9409188690842041,
+    "asr_bd": 0.8220267363245236,
+    "ba": 0.8641287645974186,
+    "asr_bd_trials": [
+      0.8220267363245236
+    ],
+    "ba_trials": [
+      0.8641287645974186
+    ],
+    "noised_ca": 0.9409188690842041,
+    "asr_noised": 0.005800553165334972,
+    "asr_noised_trials": [
+      0.005800553165334972
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "SVHN",
+    "seed": 1422,
+    "ca": 0.943338967424708,
+    "asr_bd": 0.8161109403810695,
+    "ba": 0.8126920712968654,
+    "asr_bd_trials": [
+      0.8161109403810695
+    ],
+    "ba_trials": [
+      0.8126920712968654
+    ],
+    "noised_ca": 0.9431853103872158,
+    "asr_noised": 0.0021511985248924403,
+    "asr_noised_trials": [
+      0.0021511985248924403
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "SVHN",
+    "seed": 1706,
+    "ca": 0.9463736939151813,
+    "asr_bd": 0.671481253841426,
+    "ba": 0.9363091579594346,
+    "asr_bd_trials": [
+      0.671481253841426
+    ],
+    "ba_trials": [
+      0.9363091579594346
+    ],
+    "noised_ca": 0.946719422249539,
+    "asr_noised": 0.02108942839582053,
+    "asr_noised_trials": [
+      0.02108942839582053
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "SVHN",
+    "seed": 1781,
+    "ca": 0.9453365089121082,
+    "asr_bd": 0.6775507068223725,
+    "ba": 0.8778426551936078,
+    "asr_bd_trials": [
+      0.6775507068223725
+    ],
+    "ba_trials": [
+      0.8778426551936078
+    ],
+    "noised_ca": 0.9452980946527351,
+    "asr_noised": 0.015327289489858635,
+    "asr_noised_trials": [
+      0.015327289489858635
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "SVHN",
+    "seed": 4031,
+    "ca": 0.9366933005531654,
+    "asr_bd": 0.8969345421020283,
+    "ba": 0.7345958819913952,
+    "asr_bd_trials": [
+      0.8969345421020283
+    ],
+    "ba_trials": [
+      0.7345958819913952
+    ],
+    "noised_ca": 0.9367701290719115,
+    "asr_noised": 0.0026121696373693913,
+    "asr_noised_trials": [
+      0.0026121696373693913
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "SVHN",
+    "seed": 4806,
+    "ca": 0.9404578979717271,
+    "asr_bd": 0.8826444376152428,
+    "ba": 0.8769975414874002,
+    "asr_bd_trials": [
+      0.8826444376152428
+    ],
+    "ba_trials": [
+      0.8769975414874002
+    ],
+    "noised_ca": 0.9406115550092194,
+    "asr_noised": 0.015519360786724033,
+    "asr_noised_trials": [
+      0.015519360786724033
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "SVHN",
+    "seed": 6991,
+    "ca": 0.941379840196681,
+    "asr_bd": 0.9585125998770744,
+    "ba": 0.822679778733866,
+    "asr_bd_trials": [
+      0.9585125998770744
+    ],
+    "ba_trials": [
+      0.822679778733866
+    ],
+    "noised_ca": 0.9410725261216963,
+    "asr_noised": 0.00484019668100799,
+    "asr_noised_trials": [
+      0.00484019668100799
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "SVHN",
+    "seed": 7326,
+    "ca": 0.9419176398279041,
+    "asr_bd": 0.5700291948371236,
+    "ba": 0.8411186232329441,
+    "asr_bd_trials": [
+      0.5700291948371236
+    ],
+    "ba_trials": [
+      0.8411186232329441
+    ],
+    "noised_ca": 0.9420328826060234,
+    "asr_noised": 0.011178549477566073,
+    "asr_noised_trials": [
+      0.011178549477566073
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "SVHN",
+    "seed": 9218,
+    "ca": 0.9469883220651506,
+    "asr_bd": 0.7871465888137676,
+    "ba": 0.8663567916410572,
+    "asr_bd_trials": [
+      0.7871465888137676
+    ],
+    "ba_trials": [
+      0.8663567916410572
+    ],
+    "noised_ca": 0.9469883220651506,
+    "asr_noised": 0.002842655193607867,
+    "asr_noised_trials": [
+      0.002842655193607867
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "SVHN",
+    "seed": 9480,
+    "ca": 0.9462968653964352,
+    "asr_bd": 0.9597418561770129,
+    "ba": 0.8909419176398279,
+    "asr_bd_trials": [
+      0.9597418561770129
+    ],
+    "ba_trials": [
+      0.8909419176398279
+    ],
+    "noised_ca": 0.9465657652120467,
+    "asr_noised": 0.004801782421634911,
+    "asr_noised_trials": [
+      0.004801782421634911
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "GTSRB",
+    "seed": 141,
+    "ca": 0.947347585114806,
+    "asr_bd": 0.3209026128266033,
+    "ba": 0.8732383214568488,
+    "asr_bd_trials": [
+      0.3209026128266033
+    ],
+    "ba_trials": [
+      0.8732383214568488
+    ],
+    "noised_ca": 0.947347585114806,
+    "asr_noised": 0.014806017418844021,
+    "asr_noised_trials": [
+      0.014806017418844021
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "GTSRB",
+    "seed": 1422,
+    "ca": 0.9475851148060174,
+    "asr_bd": 0.8859065716547901,
+    "ba": 0.9041963578780681,
+    "asr_bd_trials": [
+      0.8859065716547901
+    ],
+    "ba_trials": [
+      0.9041963578780681
+    ],
+    "noised_ca": 0.9475059382422802,
+    "asr_noised": 0.01583531274742676,
+    "asr_noised_trials": [
+      0.01583531274742676
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "GTSRB",
+    "seed": 1706,
+    "ca": 0.9377672209026128,
+    "asr_bd": 0.7006334125098971,
+    "ba": 0.8920823436262866,
+    "asr_bd_trials": [
+      0.7006334125098971
+    ],
+    "ba_trials": [
+      0.8920823436262866
+    ],
+    "noised_ca": 0.9380839271575614,
+    "asr_noised": 0.033174980205859066,
+    "asr_noised_trials": [
+      0.033174980205859066
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "GTSRB",
+    "seed": 1781,
+    "ca": 0.9460015835312747,
+    "asr_bd": 0.8073634204275535,
+    "ba": 0.8675376088677751,
+    "asr_bd_trials": [
+      0.8073634204275535
+    ],
+    "ba_trials": [
+      0.8675376088677751
+    ],
+    "noised_ca": 0.9459224069675376,
+    "asr_noised": 0.022486144101346,
+    "asr_noised_trials": [
+      0.022486144101346
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "GTSRB",
+    "seed": 4031,
+    "ca": 0.9435471100554236,
+    "asr_bd": 0.31995249406175774,
+    "ba": 0.8213776722090261,
+    "asr_bd_trials": [
+      0.31995249406175774
+    ],
+    "ba_trials": [
+      0.8213776722090261
+    ],
+    "noised_ca": 0.9436262866191607,
+    "asr_noised": 0.018764845605700714,
+    "asr_noised_trials": [
+      0.018764845605700714
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "GTSRB",
+    "seed": 4806,
+    "ca": 0.9448139350752177,
+    "asr_bd": 0.8786223277909738,
+    "ba": 0.9079176563737134,
+    "asr_bd_trials": [
+      0.8786223277909738
+    ],
+    "ba_trials": [
+      0.9079176563737134
+    ],
+    "noised_ca": 0.9444972288202692,
+    "asr_noised": 0.048931116389548696,
+    "asr_noised_trials": [
+      0.048931116389548696
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "GTSRB",
+    "seed": 6991,
+    "ca": 0.9494853523357086,
+    "asr_bd": 0.927870150435471,
+    "ba": 0.8518606492478227,
+    "asr_bd_trials": [
+      0.927870150435471
+    ],
+    "ba_trials": [
+      0.8518606492478227
+    ],
+    "noised_ca": 0.9494061757719715,
+    "asr_noised": 0.046239113222486146,
+    "asr_noised_trials": [
+      0.046239113222486146
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "GTSRB",
+    "seed": 7326,
+    "ca": 0.9486144101346001,
+    "asr_bd": 0.13087885985748218,
+    "ba": 0.8922406967537608,
+    "asr_bd_trials": [
+      0.13087885985748218
+    ],
+    "ba_trials": [
+      0.8922406967537608
+    ],
+    "noised_ca": 0.948535233570863,
+    "asr_noised": 0.036975455265241486,
+    "asr_noised_trials": [
+      0.036975455265241486
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "GTSRB",
+    "seed": 9218,
+    "ca": 0.9353127474267616,
+    "asr_bd": 0.30150435471100556,
+    "ba": 0.8167062549485352,
+    "asr_bd_trials": [
+      0.30150435471100556
+    ],
+    "ba_trials": [
+      0.8167062549485352
+    ],
+    "noised_ca": 0.9353919239904989,
+    "asr_noised": 0.018210609659540775,
+    "asr_noised_trials": [
+      0.018210609659540775
+    ]
+  },
+  {
+    "model_name": "resnet18",
+    "dataset": "GTSRB",
+    "seed": 9480,
+    "ca": 0.9371338083927158,
+    "asr_bd": 0.802929532858274,
+    "ba": 0.9095011876484561,
+    "asr_bd_trials": [
+      0.802929532858274
+    ],
+    "ba_trials": [
+      0.9095011876484561
+    ],
+    "noised_ca": 0.9370546318289786,
+    "asr_noised": 0.021456848772763264,
+    "asr_noised_trials": [
+      0.021456848772763264
+    ]
+  },
+  {
+    "dataset": "CIFAR10",
+    "seed": 141,
+    "ca": 0.9762,
+    "asr_clean": 0.9366,
+    "noised_ca": 0.9763,
+    "asr_noised": 0.9345,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "CIFAR10",
+    "seed": 1422,
+    "ca": 0.9735,
+    "asr_clean": 0.0449,
+    "noised_ca": 0.9731,
+    "asr_noised": 0.05,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "CIFAR10",
+    "seed": 1706,
+    "ca": 0.9724,
+    "asr_clean": 0.8537,
+    "noised_ca": 0.9726,
+    "asr_noised": 0.8654,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "CIFAR10",
+    "seed": 1781,
+    "ca": 0.9759,
+    "asr_clean": 0.0,
+    "noised_ca": 0.9759,
+    "asr_noised": 0.0,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "CIFAR10",
+    "seed": 4031,
+    "ca": 0.975,
+    "asr_clean": 0.0058,
+    "noised_ca": 0.9753,
+    "asr_noised": 0.0067,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "CIFAR10",
+    "seed": 4806,
+    "ca": 0.9774,
+    "asr_clean": 0.0016,
+    "noised_ca": 0.9775,
+    "asr_noised": 0.0015,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "CIFAR10",
+    "seed": 6991,
+    "ca": 0.973,
+    "asr_clean": 0.0009,
+    "noised_ca": 0.9734,
+    "asr_noised": 0.0009,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "CIFAR10",
+    "seed": 7326,
+    "ca": 0.9733,
+    "asr_clean": 0.0003,
+    "noised_ca": 0.9733,
+    "asr_noised": 0.0003,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "CIFAR10",
+    "seed": 9218,
+    "ca": 0.9753,
+    "asr_clean": 0.0008,
+    "noised_ca": 0.9752,
+    "asr_noised": 0.0007,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "CIFAR10",
+    "seed": 9480,
+    "ca": 0.9753,
+    "asr_clean": 0.0132,
+    "noised_ca": 0.9753,
+    "asr_noised": 0.0183,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "SVHN",
+    "seed": 141,
+    "ca": 0.9708051628764598,
+    "asr_clean": 0.0008835279655808236,
+    "noised_ca": 0.9706899200983405,
+    "asr_noised": 0.0008835279655808236,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "SVHN",
+    "seed": 1422,
+    "ca": 0.9710356484326982,
+    "asr_clean": 0.0028810694529809466,
+    "noised_ca": 0.9711508912108174,
+    "asr_noised": 0.002842655193607867,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "SVHN",
+    "seed": 1706,
+    "ca": 0.9704210202827289,
+    "asr_clean": 0.00038414259373079285,
+    "noised_ca": 0.9703441917639828,
+    "asr_noised": 0.00038414259373079285,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "SVHN",
+    "seed": 1781,
+    "ca": 0.9707283343577136,
+    "asr_clean": 0.013560233558696988,
+    "noised_ca": 0.9706899200983405,
+    "asr_noised": 0.013944376152427782,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "SVHN",
+    "seed": 4031,
+    "ca": 0.9676167793484942,
+    "asr_clean": 0.0038030116779348496,
+    "noised_ca": 0.9676167793484942,
+    "asr_noised": 0.0038414259373079286,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "SVHN",
+    "seed": 4806,
+    "ca": 0.96319913952059,
+    "asr_clean": 0.0008451137062077443,
+    "noised_ca": 0.9628149969268592,
+    "asr_noised": 0.0008451137062077443,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "SVHN",
+    "seed": 6991,
+    "ca": 0.9709204056545789,
+    "asr_clean": 0.003342040565457898,
+    "noised_ca": 0.9708819913952059,
+    "asr_noised": 0.003342040565457898,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "SVHN",
+    "seed": 7326,
+    "ca": 0.9645820528580209,
+    "asr_clean": 0.0017286416717885679,
+    "noised_ca": 0.9646972956361402,
+    "asr_noised": 0.0017670559311616472,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "SVHN",
+    "seed": 9218,
+    "ca": 0.9670021511985248,
+    "asr_clean": 0.0030347264904732637,
+    "noised_ca": 0.9668484941610326,
+    "asr_noised": 0.0029963122311001842,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "SVHN",
+    "seed": 9480,
+    "ca": 0.969499078057775,
+    "asr_clean": 0.005723724646588814,
+    "noised_ca": 0.969499078057775,
+    "asr_noised": 0.005685310387215734,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "GTSRB",
+    "seed": 141,
+    "ca": 0.9813143309580364,
+    "asr_clean": 0.008076009501187649,
+    "noised_ca": 0.9813935075217736,
+    "asr_noised": 0.007996832937450515,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "GTSRB",
+    "seed": 1422,
+    "ca": 0.9812351543942993,
+    "asr_clean": 0.013539192399049882,
+    "noised_ca": 0.9813143309580364,
+    "asr_noised": 0.013380839271575613,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "GTSRB",
+    "seed": 1706,
+    "ca": 0.9814726840855107,
+    "asr_clean": 0.007600950118764846,
+    "noised_ca": 0.9812351543942993,
+    "asr_noised": 0.008234362628661916,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "GTSRB",
+    "seed": 1781,
+    "ca": 0.9762470308788599,
+    "asr_clean": 0.00435471100554236,
+    "noised_ca": 0.9760886777513856,
+    "asr_noised": 0.00435471100554236,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "GTSRB",
+    "seed": 4031,
+    "ca": 0.9824228028503563,
+    "asr_clean": 0.009263657957244655,
+    "noised_ca": 0.9823436262866192,
+    "asr_noised": 0.00934283452098179,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "GTSRB",
+    "seed": 4806,
+    "ca": 0.9836104513064133,
+    "asr_clean": 0.009817893903404592,
+    "noised_ca": 0.9834520981789391,
+    "asr_noised": 0.009817893903404592,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "GTSRB",
+    "seed": 6991,
+    "ca": 0.9772763262074426,
+    "asr_clean": 0.006571654790182106,
+    "noised_ca": 0.9770387965162312,
+    "asr_noised": 0.006571654790182106,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "GTSRB",
+    "seed": 7326,
+    "ca": 0.9787806809184482,
+    "asr_clean": 0.026049089469517023,
+    "noised_ca": 0.9788598574821853,
+    "asr_noised": 0.02644497228820269,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "GTSRB",
+    "seed": 9218,
+    "ca": 0.9786223277909739,
+    "asr_clean": 0.0011084718923198734,
+    "noised_ca": 0.9785431512272368,
+    "asr_noised": 0.0011084718923198734,
+    "model_name": "vit"
+  },
+  {
+    "dataset": "GTSRB",
+    "seed": 9480,
+    "ca": 0.979889152810768,
+    "asr_clean": 0.02953285827395091,
+    "noised_ca": 0.9800475059382423,
+    "asr_noised": 0.029770387965162314,
+    "model_name": "vit"
+  }
+]

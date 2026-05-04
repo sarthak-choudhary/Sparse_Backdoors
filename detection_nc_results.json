@@ -1,0 +1,26 @@
+[
+  {
+    "model_name": "convnet",
+    "dataset": "CIFAR10",
+    "seed": 141,
+    "is_backdoored": true,
+    "label": "backdoored",
+    "detection_result": "Trojaned",
+    "is_trojaned": true,
+    "anomaly_index": null,
+    "detection_status": "success",
+    "model_path": "models/convnet_CIFAR10_0.01_20_141/CIFAR10_dense_backdoored.pt"
+  },
+  {
+    "model_name": "convnet",
+    "dataset": "CIFAR10",
+    "seed": 141,
+    "is_backdoored": false,
+    "label": "noised",
+    "detection_result": "Trojaned",
+    "is_trojaned": true,
+    "anomaly_index": null,
+    "detection_status": "success",
+    "model_path": "models/convnet_CIFAR10_0.01_20_141/CIFAR10_dense_noised.pt"
+  }
+]
