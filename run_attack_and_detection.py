@@ -602,6 +602,7 @@ def detect_single_model_featurere(
     device_id: int,
     is_backdoored: bool,
     seed: int,
+    target_class: int,
 ) -> Dict:
     """Run FeatureRE on a single model file."""
     import torch as _torch
@@ -619,6 +620,7 @@ def detect_single_model_featurere(
         model_name=model_name,
         device_id=device_id,
         base_dir=base_dir,
+        set_all2one_target=str(target_class),
     )
 
     det = result.get('detection_result', 'Unknown')
@@ -637,6 +639,7 @@ def detect_single_model_featurere(
 def run_phase_detect_featurere(
     device_list: List[int],
     save_dir: str,
+    target_class: int,
     workers_per_gpu: int = 1,
     combos: Optional[List[Tuple[str, str]]] = None,
     seeds: Optional[List[int]] = None,
@@ -673,7 +676,7 @@ def run_phase_detect_featurere(
         futures = {}
         for i, (mp_, ds, mn, is_bd, s) in enumerate(jobs):
             dev = expanded_devices[i % len(expanded_devices)]
-            f = pool.submit(detect_single_model_featurere, mp_, ds, mn, dev, is_bd, s)
+            f = pool.submit(detect_single_model_featurere, mp_, ds, mn, dev, is_bd, s, target_class)
             futures[f] = (mn, ds, s, is_bd)
 
         for f in as_completed(futures):
@@ -1289,7 +1292,7 @@ def main():
 
     if args.phase in ('all', 'detect-featurere'):
         run_phase_detect_featurere(
-            device_list, args.save_dir, args.workers_per_gpu,
+            device_list, args.save_dir, args.target_class, args.workers_per_gpu,
             combos=combos, seeds=seeds,
         )
         print()

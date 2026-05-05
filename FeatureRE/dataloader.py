@@ -8,7 +8,18 @@ import random
 import numpy as np
 
 from PIL import Image
-from torch.utils.tensorboard import SummaryWriter
+try:
+    from torch.utils.tensorboard import SummaryWriter
+except Exception:  # Optional dependency for this detection path
+    class SummaryWriter:  # type: ignore
+        def __init__(self, *args, **kwargs):
+            pass
+
+        def add_scalar(self, *args, **kwargs):
+            pass
+
+        def close(self):
+            pass
 
 from torch.utils.data import Dataset
 

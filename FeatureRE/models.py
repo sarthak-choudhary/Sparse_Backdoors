@@ -5,9 +5,6 @@ from torch import nn
 from torch.nn import Module
 from torchvision import transforms
 
-from .blocks import *
-
-
 class Normalize:
     def __init__(self, opt, expected_values, variance):
         self.n_channels = opt.input_channel

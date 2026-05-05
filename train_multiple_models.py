@@ -20,7 +20,9 @@ import os
 # target script runs, without touching any third-party detection code.
 _CUDNN_DISABLE_PREFIX = (
     "import torch; torch.backends.cudnn.enabled = False; "
-    "import sys; sys.argv = sys.argv[1:]; "
+    "import sys, os; sys.argv = sys.argv[1:]; "
+    "script_dir = os.path.dirname(os.path.abspath(sys.argv[0])); "
+    "sys.path.insert(0, script_dir) if script_dir not in sys.path else None; "
     "import runpy; runpy.run_path(sys.argv[0], run_name='__main__')"
 )
 

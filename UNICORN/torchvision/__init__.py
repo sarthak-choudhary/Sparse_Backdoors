@@ -2,7 +2,11 @@ import os
 import warnings
 
 import torch
-from torchvision import datasets, io, ops, transforms, utils, models
+from torchvision import datasets, io, ops, transforms, utils
+try:
+    from torchvision import models
+except Exception:
+    models = None
 #from . import models
 
 from .extension import _HAS_OPS
